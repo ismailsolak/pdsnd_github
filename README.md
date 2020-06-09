@@ -1,15 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+09.06.2020
 
 ### Project Title
-Replace the Project Title
+PROGRAMMING FOR DATA SCIENCE 
 
 ### Description
-Describe what your project is about and what it does
+This repository contains projects for Udacity Programming For Data Science.
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
