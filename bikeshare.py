@@ -269,7 +269,6 @@ def display_data(df):
             elif display_more.lower() == 'no':
                 break
 
-
 def statistics():
     '''Calculates and prints out the descriptive statistics about a city and
     time period specified by the user via raw input.
